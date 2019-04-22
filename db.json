@@ -8,5 +8,15 @@
   "profile": {
     "name": "typicode",
     "age": 24
-  }
+  },
+  "countries": [
+    {
+      "id": 1,
+      "name": "Bangladesh"
+    },
+    {
+      "id": 2,
+      "name": "India"
+    }
+  ],
 }
